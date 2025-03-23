@@ -1,4 +1,4 @@
-# TF-IDF Algorithm for SEO Optimization In Django Frame work
+# Rankit ,A search Engine in Django With TF-IDF Algorithm for SEO Optimization
 
 ## Introduction
 
